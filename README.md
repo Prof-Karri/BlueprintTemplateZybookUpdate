@@ -8,19 +8,10 @@ The system is designed primarily for instructors who regularly prepare 8-week an
 
 The system uses a two-part workflow.
 
-### Part 1: Canvas Template Preparation
+### Part 1: Download zyBook Assignments
 
-Part 1 prepares an existing Canvas course to serve as a reusable template.
+Part 1 once you have downloaded this Repo you will need to download the zyBook Assignments from your zyBook. Instructions are in the [user guide] (https://docs.google.com/document/d/1Bb7GmNe1R2CU2lEyqnv5ApVvDndPat3J/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true).
 
-It:
-
-* Exports Canvas course content
-* Identifies supported zyBooks assignments
-* Converts those assignments into placeholders
-* Preserves reusable Module 1 assignment descriptions
-* Clears unnecessary placeholder descriptions
-* Unpublishes the placeholders
-* Moves them into a template assignment group
 
 ### Part 2: Course Configuration
 
@@ -48,6 +39,14 @@ The automated schedule generator currently supports standard 8-week and 16-week 
 The workflow has also been tested successfully with a 10-week course. For course lengths other than 8 or 16 weeks, the generated `semester_dates.csv` file can be manually adjusted before the assignment configuration is applied.
 
 A planned future enhancement is to allow instructors to generate schedules automatically for additional course lengths.
+
+## User Guide
+
+Complete setup, operating, verification, and troubleshooting instructions are available in the:
+
+[Mesa CC CIS Blueprint Canvas Course zyBook Automation System User Guide](https://docs.google.com/document/d/1wTXeAjO6-IEqiqb9vbfO2oBCa9-itUXx/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true)
+
+Review the user guide before running the workflow for the first time.
 
 ## Requirements
 
@@ -114,7 +113,7 @@ Stop if the wrong course is displayed.
 
 Complete setup, operating, verification, and troubleshooting instructions are available in the:
 
-[zyBooks Canvas Course Automation System User Guide](https://docs.google.com/document/d/1wTXeAjO6-IEqiqb9vbfO2oBCa9-itUXx/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true)
+[Mesa CC CIS Blueprint Canvas Course zyBook Automation System User Guide](https://docs.google.com/document/d/1wTXeAjO6-IEqiqb9vbfO2oBCa9-itUXx/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true)
 
 Review the user guide before running the workflow for the first time.
 
