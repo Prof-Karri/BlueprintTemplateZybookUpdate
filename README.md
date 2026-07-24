@@ -40,7 +40,7 @@ The workflow has also been tested successfully with a 10-week course. For course
 
 A planned future enhancement is to allow instructors to generate schedules automatically for additional course lengths.
 
-## User Guide
+## User Guide 
 
 Complete setup, operating, verification, and troubleshooting instructions are available in the:
 
