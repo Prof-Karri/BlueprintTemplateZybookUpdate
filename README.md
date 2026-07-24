@@ -10,7 +10,7 @@ The system uses a two-part workflow.
 
 ### Part 1: Download zyBook Assignments
 
-Part 1 once you have downloaded this Repo you will need to download the zyBook Assignments from your zyBook. Instructions are in the [user guide] (https://docs.google.com/document/d/1Bb7GmNe1R2CU2lEyqnv5ApVvDndPat3J/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true).
+Part 1 once you have downloaded this Repo you will need to download the zyBook Assignments from your zyBook. Instructions are in the [user guide](https://docs.google.com/document/d/1Bb7GmNe1R2CU2lEyqnv5ApVvDndPat3J/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true).
 
 
 ### Part 2: Course Configuration
@@ -108,14 +108,6 @@ Confirm that the terminal displays:
 * The course module names
 
 Stop if the wrong course is displayed.
-
-## User Guide
-
-Complete setup, operating, verification, and troubleshooting instructions are available in the:
-
-[Mesa CC CIS Blueprint Canvas Course zyBook Automation System User Guide](https://docs.google.com/document/d/1wTXeAjO6-IEqiqb9vbfO2oBCa9-itUXx/edit?usp=sharing&ouid=115508625765389809270&rtpof=true&sd=true)
-
-Review the user guide before running the workflow for the first time.
 
 ## Important Safety Information
 
