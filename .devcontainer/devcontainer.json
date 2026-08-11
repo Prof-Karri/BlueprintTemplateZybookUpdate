@@ -12,5 +12,16 @@
         "ms-python.vscode-pylance"
       ]
     }
+  },
+  "secrets": {
+    "CANVAS_URL": {
+      "description": "Canvas API Access Token"
+    },
+    "CANVAS_TOKEN": {
+      "description": "Canvas Instance Base URL"
+    },
+    "COURSE_ID": {
+      "description": "Additional required configuration secret"
+    }
   }
 }
