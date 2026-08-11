@@ -36,14 +36,15 @@ pip install python-dotenv
 **Problem:** The script can't find your Canvas configuration.
 
 **Solution:**
-1. Check that `.env` file exists in the project root (not in a subdirectory)
-2. Verify the file contains:
+1.IF USING CODESPACES THIS WLL NOT APPLY
+2. Check that `.env` file exists in the project root (not in a subdirectory)
+3. Verify the file contains:
    ```
    CANVAS_URL=https://your-institution.instructure.com
    CANVAS_TOKEN=your_token_here
    COURSE_ID=123456
    ```
-3. If using **Codespaces secrets**, they might not be loaded. Try:
+4. If using **Codespaces secrets**, they might not be loaded. Try:
    - Reloading the window (`Ctrl+Shift+P` → "Developer: Reload Window")
    - Running again after a few seconds
 
@@ -59,6 +60,7 @@ pip install python-dotenv
 
 **Solution:**
 - Your Canvas URL should look like: `https://your-institution.instructure.com`
+- Do NOT include the /courses/  
 - Check for typos (common: misspelled institution name)
 - Do NOT include trailing slashes: `❌ https://your-institution.instructure.com/` → `✅ https://your-institution.instructure.com`
 
